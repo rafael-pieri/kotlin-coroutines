@@ -1,11 +1,11 @@
 ## kotlin-coroutines
 
-### Concepts
+### Concepts:
 
 1. Builders
-- launch
-- GlobalScope.launch
-- async
+  - launch
+  - GlobalScope.launch
+  - async
 
 2. Executions
 - Concurrent
