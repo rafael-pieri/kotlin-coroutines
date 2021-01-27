@@ -1,40 +1,40 @@
-# kotlin-coroutines
+## kotlin-coroutines
 
-## Concepts
+### Concepts
 
-### Builders
+1. Builders
 - launch
 - GlobalScope.launch
 - async
 
-### Executions
+2. Executions
 - Concurrent
 - Lazy
 - Sequential
 
-### Scope
+3. Scope
 
-### Context
+4. Context
 
-### Suspending Functions
+5. Suspending Functions
 - delay
 - yield
 - withContext
 - withTimeout
 
-### Dispatchers
+6. Dispatchers
 - Default
 - IO
 - Unconfined
 
-### Exception Handling
+7. Exception Handling
 
-### Asynchronous Flow
+8. Asynchronous Flow
 - Operators
 - Buffering
 - Composing Flows
 
-### Channels
+9. Channels
 - Producer
 - Pipelines
 - Fan-out
@@ -42,7 +42,7 @@
 - Buffered Channels
 - Ticker Channels
 
-### Concurrency and shared state
+10. Concurrency and shared state
 - Atomic variables
 - Thread confinement
 - Mutal exclusion locks (Mutex)
