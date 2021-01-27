@@ -43,7 +43,7 @@
    * Ticker Channels
 
 10. Concurrency and shared state
-   * Atomic variables
-   * Thread confinement
-   * Mutal exclusion locks (Mutex)
-   
+    * Atomic variables
+    * Thread confinement
+    * Mutal exclusion locks (Mutex)
+  
