@@ -31,9 +31,9 @@
 
 8. Asynchronous Flow
    * Properties: cold, cancellation and builders;
-   * Operators;
+   * Operators: map, filter, transform, take, reduce, flowOn;
    * Buffering;
-   * Composing Flows.
+   * Composing Flows: zip, compose.
 
 9. Channels
    * Producer;
