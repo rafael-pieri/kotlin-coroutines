@@ -12,7 +12,7 @@ fun main() = runBlocking {
                 (0..500).forEach { i ->
                     println("index: $i")
                     /**
-                     * It is only possible to suspend a coroutine if the method is cooperative or suspendable.
+                     * It is only possible to suspend a coroutine if the method is cooperative.
                      * E.g.: delay(), yield(), withContext(), withTimeout()
                      */
                     delay(1)
