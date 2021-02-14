@@ -1,4 +1,4 @@
-package flow
+package flow.operators
 
 import kotlinx.coroutines.flow.asFlow
 import kotlinx.coroutines.flow.collect

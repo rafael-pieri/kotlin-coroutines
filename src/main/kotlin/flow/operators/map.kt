@@ -1,4 +1,4 @@
-package flow
+package flow.operators
 
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.asFlow
@@ -6,12 +6,6 @@ import kotlinx.coroutines.flow.collect
 import kotlinx.coroutines.flow.map
 import kotlinx.coroutines.runBlocking
 
-/**
- * operator:
- * - take an input flow, transform and return an output
- * - they are code
- * - the returning flow is synchronous
- */
 fun main() {
     runBlocking {
         mapOperator()
